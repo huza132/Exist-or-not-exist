@@ -1,0 +1,10 @@
+person = ["alice", "mohamed", "ahmad"]
+for man in person :
+    print(man)
+    moon = input("he is come please enter yes or no")
+    if moon == "yes" :
+        print("he is exist")
+    elif moon == "no" :
+        print("no he does not exist")
+    else :
+        print("please enter yes or no")
